@@ -59,3 +59,6 @@ if __name__ == "__main__":
         wypelnij_word(dane, "szablon.docx", "wypelniony_raport.docx")
     else:
         print("Nie wybrano pliku.")
+
+
+# nowy featuer aplikacji
