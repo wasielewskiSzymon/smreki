@@ -64,3 +64,5 @@ if __name__ == "__main__":
 # nowy featuer aplikacji
 
 # zapisyawnie do doc
+
+# zmiany na nowe jgalzei
